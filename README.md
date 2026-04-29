@@ -42,29 +42,6 @@ Busco desenvolver soluções escaláveis, performáticas e com foco na experiên
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/JRamonPere">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JRamonPere&show_icons=true&theme=dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRamonPere&layout=compact&theme=dark"/>
-  </a>
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-🔹 **Codando**  
-Plataforma educacional gamificada para ensino de programação  
-Stack: React, Java Spring Boot, Kotlin, AWS  
-
-🔹 **Ducktetive**  
-Sistema de monitoramento de servidores em tempo real  
-Stack: JavaScript, Java, AWS, Docker  
-
----
-
 ## 📫 Contato
 
 <div align="center">
