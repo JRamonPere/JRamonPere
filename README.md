@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Ramon 👋</h1>
 
 <p align="center">
-Desenvolvedor de Software com foco em Front-end e experiência em sistemas bancários.
+Desenvolvedor de Software com experiência em sistemas bancários.
 </p>
 
 ---
