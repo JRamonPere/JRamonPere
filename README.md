@@ -9,7 +9,6 @@ Desenvolvedor de Software com experiência em sistemas bancários.
 ## 💻 Sobre mim
 
 - 🎯 +2 anos de experiência no setor bancário (Banco Safra)
-- 📈 Evolução de Estagiário → Analista Júnior
 - 🧠 Experiência com sistemas críticos e alto volume de dados
 - ☁️ Conhecimento em Cloud (AWS) e arquitetura de sistemas
 - 🤖 Interesse em Inteligência Artificial aplicada a produtos
